@@ -6,7 +6,8 @@ An open-source AI agent for compliant enterprise conversations, built for Eloque
 ## Setup
 1. Clone: `git clone https://github.com/10sharmashivam/ReguChat.git`
 2. Install: `pip install -r requirements.txt`
-3. Run: `python main.py`
+3. Install spaCy model: `python -m spacy download en_core_web_sm`
+4. Run: `python main.py`
 
 ## Tech Stack
 - AI: HuggingFace (BERT), RAG (FAISS)
