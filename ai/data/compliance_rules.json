@@ -1,0 +1,62 @@
+[
+    {
+        "banned_words": [
+            "lawsuit",
+            "fraud"
+        ]
+    },
+{
+        "banned_phrases": [
+            "I will sue you",
+            "I am a lawyer"
+        ]
+    },
+{
+        "banned_topics": [
+            "legal advice",
+            "medical advice"
+        ]
+    },
+{
+        "banned_actions": [
+            "discrimination",
+            "harassment"
+        ]
+    },
+{
+        "banned_behaviors": [
+            "spamming",
+            "trolling"
+        ]
+    },
+{
+        "banned_users": [
+            "user123",
+            "user456"
+        ]
+    },
+{
+        "banned_links": [
+            "example.com",
+            "spam.com"
+        ]
+    },
+{
+        "banned_files": [
+            "malware.exe",
+            "virus.zip"
+        ]
+    },
+{
+        "banned_images": [
+            "inappropriate.jpg",
+            "offensive.png"
+        ]
+    },
+{
+        "banned_videos": [
+            "violence.mp4",
+            "hate_speech.mov"
+        ]
+    }
+]

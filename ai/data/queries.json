@@ -1,0 +1,92 @@
+[
+    {
+        "query": "What is my account balance?"
+    },
+    {
+        "query": "File a complaint"
+    },
+    {
+        "query": "What is the status of my order?"
+    },
+    {
+        "query": "How do I reset my password?"
+    },
+    {
+        "query": "What are the store hours?"
+    },
+    {
+        "query": "How do I contact customer support?"
+    },
+    {
+        "query": "Where is my shipment?"
+    },
+    {
+        "query": "How do I return an item?"
+    },
+    {
+        "query": "What payment methods are accepted?"
+    },
+    {
+        "query": "How do I update my account information?"
+    },
+    {
+        "query": "What is the warranty policy?"
+    },
+    {
+        "query": "How do I track my order?"
+    },
+    {
+        "query": "What is the refund policy?"
+    },
+    {
+        "query": "How do I cancel my subscription?"
+    },
+    {
+        "query": "What are the shipping options?"
+    },
+    {
+        "query": "How do I change my password?"
+    },
+    {
+        "query": "What is the privacy policy?"
+    },
+    {
+        "query": "How do I report a problem with my order?"
+    },
+    {
+        "query": "What are the terms and conditions?"
+    },
+    {
+        "query": "How do I unsubscribe from emails?"
+    },
+    {
+        "query": "What is the return policy?"
+    },
+    {
+        "query": "How do I redeem a gift card?"
+    },
+    {
+        "query": "What is the exchange policy?"
+    },
+    {
+        "query": "How do I update my payment information?"
+    },
+    {
+        "query": "What is the loyalty program?"
+    },
+    {
+        "query": "How do I find a store near me?"
+    },
+    {
+        "query": "What are the customer service hours?"
+    },
+    {
+        "query": "How do I leave feedback?"
+    },
+    {
+        "query": "What is the price match policy?"
+    },
+    {
+        "query": "How do I create an account?"
+    }
+]
